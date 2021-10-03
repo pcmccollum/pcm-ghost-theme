@@ -1,6 +1,6 @@
-# London
+# PCM
 
-A custom, image-centric theme for [Ghost](http://github.com/tryghost/ghost/). Made for publishers and portfolios with plenty of graphics to show off to the world. Completely free and fully responsive, released under the MIT license.
+A custom, image-centric theme for [Ghost](http://github.com/tryghost/ghost/) based on London. Made for publishers and portfolios with plenty of graphics to show off to the world. Completely free and fully responsive, released under the MIT license.
 
 **Demo: https://london.ghost.io**
 

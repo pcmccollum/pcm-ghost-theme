@@ -1,6 +1,6 @@
 {
-    "name": "london",
-    "description": "A minimum, image-centric theme for Ghost.",
+    "name": "pcm",
+    "description": "Custom based on London - A minimum, image-centric theme for Ghost.",
     "demo": "https://london.ghost.io",
     "version": "1.0.0",
     "engines": {
@@ -22,9 +22,9 @@
         "ship": "STATUS=$(git status --porcelain); echo $STATUS; if [ -z \"$STATUS\" ]; then yarn version && git push --follow-tags; fi"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Phillip Mccollum",
+        "email": "pcmccollum@gmail.com",
+        "url": "https://phillipmccollum.com"
     },
     "gpm": {
         "type": "theme",
@@ -40,7 +40,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/London.git"
+        "url": "https://github.com/pcmccollum/pcm-ghost-theme.git"
     },
     "bugs": "https://github.com/TryGhost/London/issues",
     "contributors": "https://github.com/TryGhost/London/graphs/contributors",
